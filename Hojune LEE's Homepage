@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hojune Lee</title>
+    <style>
+        body {
+            max-width: 800px;
+            margin: 40px auto;
+            font-family: Georgia, "Times New Roman", serif;
+            line-height: 1.6;
+            color: #111;
+        }
+        h1 {
+            margin-bottom: 5px;
+        }
+        h2 {
+            margin-top: 30px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 3px;
+        }
+        a {
+            color: #0645ad;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Hojune Lee</h1>
+
+<p>
+Undergraduate, Department of Mathematical Sciences<br>
+Seoul National University
+</p>
+
+<p>
+Email:
+<a href="mailto:hohoshinylake@gmail.com">hohoshinylake@gmail.com</a>,
+<a href="mailto:hohoshinylake@snu.ac.kr">hohoshinylake@snu.ac.kr</a>
+</p>
+
+<h2>Research Interests</h2>
+<p>
+Algebraic Number Theory, Class Number Theory
+</p>
+
+<h2>Publications</h2>
+<ul>
+    <li>
+        Hojune Lee,
+        <i>A Complete Classification of Odd Composite Numbers Having More Than φ(n)/16 Strong Liars in the Miller–Rabin Primality Test</i>,
+        submitted to <i>Journal of Number Theory</i> (under review).
+    </li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+    <li>
+        <b>Seoul National University</b>, B.S. in Mathematical Sciences<br>
+        Mar 2023 – Present<br>
+        GPA: 4.22/4.30
+    </li>
+    <li>
+        <b>Seoul Science High School</b><br>
+        Mar 2020 – Feb 2023
+    </li>
+</ul>
+
+<h2>Honors and Awards</h2>
+<ul>
+    <li>Presidential Science Scholarship, Korea Student Aid Foundation (Mar 2023 – Present)</li>
+    <li>Gold Prize, Korea Undergraduates Mathematics Competition (Dec 2024)</li>
+    <li>Creative Talent Award, Seoul Science High School (Feb 2023)</li>
+    <li>1st in Research Achievement among Graduates</li>
+</ul>
+
+<h2>Selected Activities</h2>
+<ul>
+    <li>
+        Silver Medalist, Renju Youth World Championship (U-25), Nov 2024
+    </li>
+</ul>
+
+<h2>Military Service</h2>
+<ul>
+    <li>
+        Republic of Korea Air Force<br>
+        Meteorological Observing and Forecasting Specialist<br>
+        Apr 2025 – Jan 2027
+    </li>
+</ul>
+
+</body>
+</html>
